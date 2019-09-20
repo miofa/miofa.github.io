@@ -1,4 +1,6 @@
-## Python学习笔记
-- 记录学习Python的每一天
+## Python Study
+- How are you
+- I'm fine,thank you,and you
+- I'm ok
 
 
